@@ -3,7 +3,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Webopage](https://drive.google.com/file/d/1x67NTMyAl9jGGRH1IqorjHF-CRveKdoY/view?usp=sharing)
+![Webopage](<img width="1175" alt="Bakery Photo" src="https://user-images.githubusercontent.com/101633036/173449375-404e0661-8257-4ebf-b58d-244afc865758.png">
+)
 
 
 
