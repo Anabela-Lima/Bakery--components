@@ -4,7 +4,15 @@
 
 In this exercise we will consider how to break down a web page into components before taking a look at some of the things we can do with them.
 
+### Task2: My webPage
+
 <img width="1175" alt="Bakery Photo" src="https://user-images.githubusercontent.com/101633036/173449375-404e0661-8257-4ebf-b58d-244afc865758.png">
+
+### Task1: My Wireframe
+
+![My Recipe Page WireFrame-2](https://user-images.githubusercontent.com/101633036/173450100-d92d3404-6ee6-4edc-a7e7-2c4293e3abe3.png)
+
+
 
 
 ## Task:
