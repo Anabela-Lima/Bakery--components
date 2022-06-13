@@ -6,7 +6,8 @@ In this exercise we will consider how to break down a web page into components b
 
 ### Task2: My webPage
 
-<img width="1175" alt="Bakery Photo" src="https://user-images.githubusercontent.com/101633036/173449375-404e0661-8257-4ebf-b58d-244afc865758.png">
+![Bakery_photo_latest](https://user-images.githubusercontent.com/101633036/173450817-0af9d71d-df3a-4e39-bb9a-f5e9ce1b37ce.png)
+
 
 ### Task1: My Wireframe
 
